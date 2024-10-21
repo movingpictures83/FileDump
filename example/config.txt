@@ -1,0 +1,2 @@
+Prefix plugins/FileDump/example/
+Plugin FileDump inputfile dump.txt outputfile none
